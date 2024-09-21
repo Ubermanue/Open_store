@@ -74,8 +74,8 @@ logo=(f"""
  \x1b[1;92m██      ██  \x1b[1;96m██████  \x1b[1;95m██   ██ \x1b[1;94m██   ██ \x1b[1;93m██████ 
 
  {L}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- {L}[\x1b[1;32m+{L}]{R} AUTHOR   {L}◉{R} ALONE MURAD \x1b[1;37m[\x1b[1;92m69\x1b[1;37m]
- {L}[\x1b[1;32m+{L}]{R} FACEBOOK {L}◉{R} Alonemurad69
+ {L}[\x1b[1;32m+{L}]{R} AUTHOR   {L}◉{R} VIXVUS \x1b[1;37m[\x1b[1;92m69\x1b[1;37m]
+ {L}[\x1b[1;32m+{L}]{R} FACEBOOK {L}◉{R} burat
  {L}[\x1b[1;32m+{L}]{R} TOOL     {L}◉{R} RANDOM CLONING
  {L}[\x1b[1;32m+{L}]{R} TYPE     {L}◉{R} PAID\x1b[1;37m > \x1b[1;32mVERSION\x1b[1;37m >\x1b[1;32m 9.4
  {L}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
@@ -90,7 +90,7 @@ def menu():
     if sex in ['1']:
         XXX()
     elif sex in ['2']:
-        os.system('xdg-open https://www.facebook.com/sk.sahathat');menu()
+        os.system('xdg-open https://www.facebook.com/vixvus');menu()
     elif sex in ['0']:
         sys.exit()
         
